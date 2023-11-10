@@ -1,6 +1,6 @@
 {
   "name": "@engineeringwithjames/happly-config",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "This is a config for happly",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/engineeringwithjames/happly-config/issues"
   },
-  "homepage": "https://github.com/engineeringwithjames/happly-config#readme"
+  "homepage": "https://github.com/engineeringwithjames/happly-config#readme",
+  "dependencies": {
+    "nanoid": "^5.0.3",
+    "react-native-get-random-values": "^1.9.0"
+  }
 }

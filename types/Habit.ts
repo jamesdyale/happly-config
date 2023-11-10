@@ -1,7 +1,9 @@
-import { UniqueId } from "~generators";
-import { User } from "./User";
-import { TimeOfDay, Frequency, HabitType } from "~types";
+import { TimeOfDay } from "./TimeOfDay";
+import { Frequency } from "./Frequency";
+import { HabitType } from "./HabitType";
+import { UniqueId } from "../generators";
 import { ChallengeType } from "./ChallengeType";
+import { User } from "./User";
 
 export type Habit = {
   id: UniqueId<"habit">;

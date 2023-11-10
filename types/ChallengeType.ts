@@ -1,4 +1,4 @@
-import { UniqueId } from "~generators";
+import { UniqueId } from "../generators";
 
 export type ChallengeType = {
   id: UniqueId<"challenge">;

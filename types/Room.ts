@@ -1,4 +1,4 @@
-import { UniqueId } from "~generators";
+import { UniqueId } from "../generators";
 import { User } from "./User";
 
 export type Room = {
