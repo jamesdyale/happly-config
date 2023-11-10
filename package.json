@@ -1,0 +1,19 @@
+{
+  "name": "@engineeringwithjames/happly-config",
+  "version": "1.0.0",
+  "description": "This is a config for happly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/engineeringwithjames/happly-config.git"
+  },
+  "author": "James Odeyale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/engineeringwithjames/happly-config/issues"
+  },
+  "homepage": "https://github.com/engineeringwithjames/happly-config#readme"
+}
